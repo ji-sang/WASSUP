@@ -17,7 +17,7 @@
 - **OFF-Closet**&nbsp;(2023) <br>
 :오프라인 의류 매장 활성화를 위한 데이터 기반 스타일 태그 매장 검색 APP  <br>
 &#8594; ***my role***&nbsp;:&nbsp;&nbsp;FullStack, PM<br>
-&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Flutter, Firebase, Word, Excel<br>
+&#8594; ***Skills***&nbsp;:&nbsp;&nbsp;Flutter, Firebase, Excel, PPT<br>
 
 ---
 ## 💻 Skills
